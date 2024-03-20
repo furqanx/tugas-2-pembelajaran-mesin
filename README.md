@@ -1,7 +1,5 @@
-<ul>
-    <li> Link dataset regresi : 
-    <li> Link dataset klasifikasi : 
-</ul>
+Link dataset regresi : https://www.kaggle.com/datasets/akram24/social-network-ads
+Link dataset klasifikasi : https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 <p>Langkah-langkah yang harus dilakukan jika ingin clone repository ini</p>
 <ol>
